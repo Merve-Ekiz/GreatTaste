@@ -1,0 +1,61 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/GenelLayout.cshtml";
+}
+<style>
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+input[type=submit] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+</style>
+
+
+<h3> Bugün Ne Pişirsem ?</h3>
+
+<div>
+  <form>
+    <label for="sbz1">Sebzeyi Giriniz</label>
+    <input type="text" id="sbz1" name="sebzeadi" placeholder="İlk Sebze">
+
+    <label for="sbz2">Diğer Sebze</label>
+    <input type="text" id="sbz2" name="sebzeadi2" placeholder="Bir sebze daha girebilirsiniz..">
+
+    <label for="tur">Türü Seçin</label>
+    <select id="tur" name="tur">
+      <option value="yemek">Yemek</option>
+      <option value="meze">Meze</option>
+      <option value="salata">Salata</option>
+      <option value="tatlı">Tatlı</option>
+      <option value="arasicak">Arasıcaklar</option>
+    </select>
+  
+    <input type="submit" value="Bul">
+  </form>
+</div>

@@ -1,0 +1,17 @@
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\BussinessLayer.deps.json
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\BussinessLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\BussinessLayer.pdb
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\DAL.dll
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\DAL.pdb
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.csproj.CopyComplete
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\ref\BussinessLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\obj\Debug\net5.0\BussinessLayer.pdb
+C:\Users\Samsung\Desktop\GreatTaste\BussinessLayer\bin\Debug\net5.0\ref\BussinessLayer.dll

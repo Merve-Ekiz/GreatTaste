@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/GenelLayout.cshtml";
+}
+
+<div class="col-xs-9 banner-body-right">
+    <div class="gallery-head">
+        <h5>Fotoğraf Galerisi</h5>
+        <p>Burada daha önceden beğenilen,sevilen yemek önerilerimiz merak
+        ettiğiniz bir çok yiyeceğin geçmişine ve geleceğine ait önemli
+        notlar ve bol miktarda fotoğraflar yer almaktadır.</p>
+    </div>
+    <div class="gallery-grids">
+        <div class="gallery-grid">
+            <a href="/tema1/images/7.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+                <img src="/tema1/images/7.jpg" alt=" " class="img-responsive" />
+            </a>
+        </div>
+        <div class="gallery-grid">
+            <a href="/tema1/images/4.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+                <img src="/tema1/images/4.jpg" alt=" " class="img-responsive" />
+            </a>
+            <a href="/tema1/images/6.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+                <img src="/tema1/images/6.jpg" alt=" " class="img-responsive" />
+            </a>
+        </div>
+        <div class="gallery-grid">
+            <a href="/tema1/images/5.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+                <img src="/tema1/images/5.jpg" alt=" " class="img-responsive" />
+            </a>
+            <a href="/tema1/images/8.jpg" rel="title" class="b-link-stripe b-animate-go  thickbox">
+                <img src="/tema1/images/8.jpg" alt=" " class="img-responsive" />
+            </a>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+    <!--script-->
+    <script src="/tema1/js/jquery.chocolat.js"></script>
+    <link rel="stylesheet" href="/tema1/css/chocolat.css" type="text/css" media="screen" charset="utf-8">
+    <!--light-box-files-->
+    <script type="text/javascript" charset="utf-8">
+							$(function() {
+								$('.gallery-grid a').Chocolat();
+							});
+    </script>
+    <!--script-->
+    <div class="msg-text-bottom">
+        <div class="col-md-4 msg-text-bottom-left">
+            <figure class="effect-winston">
+                <a href="single.html">
+                    <img src="/tema1/images/4.jpg" alt=" " class="img-responsive" />
+                    <figcaption>
+                    </figcaption>
+                </a>
+            </figure>
+
+            <h3><a href="single.html">Yiyecek1</a></h3>
+            <p>
+                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+                consectetur, adipisci velit, sed quia.
+            </p>
+        </div>
+        <div class="col-md-4 msg-text-bottom-left">
+            <figure class="effect-winston">
+                <a href="single.html">
+                    <img src="/tema1/images/5.jpg" alt=" " class="img-responsive" />
+                    <figcaption>
+                    </figcaption>
+                </a>
+            </figure>
+            <h3><a href="single.html">Yiyecek 2</a></h3>
+            <p>
+                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+                consectetur, adipisci velit, sed quia.
+            </p>
+        </div>
+        <div class="col-md-4 msg-text-bottom-left">
+            <figure class="effect-winston">
+                <a href="single.html">
+                    <img src="/tema1/images/6.jpg" alt=" " class="img-responsive" />
+                    <figcaption>
+                    </figcaption>
+                </a>
+            </figure>
+            <h3><a href="single.html">Yiyecek 3</a></h3>
+            <p>
+                Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
+                consectetur, adipisci velit, sed quia.
+            </p>
+        </div>
+        <div class="clearfix"> </div>
+    </div>
+</div>
+

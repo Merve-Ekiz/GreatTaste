@@ -1,0 +1,12 @@
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\bin\Debug\net5.0\EntityLayer.deps.json
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\bin\Debug\net5.0\EntityLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\bin\Debug\net5.0\EntityLayer.pdb
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfoInputs.cache
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.AssemblyInfo.cs
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\ref\EntityLayer.dll
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.pdb
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\obj\Debug\net5.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Samsung\Desktop\GreatTaste\EntityLayer\bin\Debug\net5.0\ref\EntityLayer.dll
